@@ -247,6 +247,7 @@ main .icons a:hover {
 }
 .projects img {
   width: 100%;
+  height: 250px;
   border: ghostwhite 2px solid;
 }
 .projects img:hover {
